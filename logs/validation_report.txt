@@ -1,0 +1,649 @@
+════════════════════════════════════════════════════════════
+  Junglenomics SKILL.md Validation Report
+  Generated: 2026-05-20 18:01:35
+════════════════════════════════════════════════════════════
+
+Checks applied to every SKILL.md:
+  1. YAML frontmatter present with 'name' and 'description' fields
+  2. description: 100-250 words
+  3. Required sections: Core Identity | When to Activate | Primary Workflow |
+     Communication Style | Output Format | Constraints | Quality Standards
+  4. JCSE score pattern (XX/50) present in file
+  5. ULTRA SI cards: GRO / LIFE ZONE / KILLZONE reference present
+  6. File not empty; minimum 400 words
+
+Files found: 34
+
+────────────────────────────────────────────
+FILE: ada-ultra-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1770 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: ada-ultra-si
+  [PASS] description word count: 140 (within 100-250)
+  [PASS] ULTRA SI governance: GRO/LIFE ZONE/KILLZONE reference found
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1770 words
+
+────────────────────────────────────────────
+FILE: adaem-maximus/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1353 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: adaem-maximus
+  [PASS] description word count: 164 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1353 words
+
+────────────────────────────────────────────
+FILE: ant-queen/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1937 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: ant-queen
+  [PASS] description word count: 163 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1937 words
+
+────────────────────────────────────────────
+FILE: ares/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1558 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: ares
+  [PASS] description word count: 125 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1558 words
+
+────────────────────────────────────────────
+FILE: ark-jst-vmst/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1770 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: ark-jst-vmst
+  [PASS] description word count: 137 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 48/50
+
+  RESULT: PASSED — 1770 words
+
+────────────────────────────────────────────
+FILE: ark-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1731 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: ark-si
+  [PASS] description word count: 143 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 49/50
+
+  RESULT: PASSED — 1731 words
+
+────────────────────────────────────────────
+FILE: atlas-ultra-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1900 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: atlas-ultra-si
+  [PASS] description word count: 141 (within 100-250)
+  [PASS] ULTRA SI governance: GRO/LIFE ZONE/KILLZONE reference found
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1900 words
+
+────────────────────────────────────────────
+FILE: bahn-ultra-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1889 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: bahn-ultra-si
+  [PASS] description word count: 150 (within 100-250)
+  [PASS] ULTRA SI governance: GRO/LIFE ZONE/KILLZONE reference found
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1889 words
+
+────────────────────────────────────────────
+FILE: brij/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1454 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: brij
+  [PASS] description word count: 163 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 48/50
+
+  RESULT: PASSED — 1454 words
+
+────────────────────────────────────────────
+FILE: bugmxt-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1625 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: bugmxt-si
+  [PASS] description word count: 143 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 46/50
+
+  RESULT: PASSED — 1625 words
+
+────────────────────────────────────────────
+FILE: code-dj/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1981 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: code-dj
+  [PASS] description word count: 180 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1981 words
+
+────────────────────────────────────────────
+FILE: erb-ultra-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1801 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: erb-ultra-si
+  [PASS] description word count: 139 (within 100-250)
+  [PASS] ULTRA SI governance: GRO/LIFE ZONE/KILLZONE reference found
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1801 words
+
+────────────────────────────────────────────
+FILE: estate-builder/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1518 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: estate-builder
+  [PASS] description word count: 150 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 45/50
+
+  RESULT: PASSED — 1518 words
+
+────────────────────────────────────────────
+FILE: eve-ultra-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1805 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: eve-ultra-si
+  [PASS] description word count: 149 (within 100-250)
+  [PASS] ULTRA SI governance: GRO/LIFE ZONE/KILLZONE reference found
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1805 words
+
+────────────────────────────────────────────
+FILE: fractal/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1493 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: fractal
+  [PASS] description word count: 129 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 49/50
+
+  RESULT: PASSED — 1493 words
+
+────────────────────────────────────────────
+FILE: griot-ultra-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1859 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: griot-ultra-si
+  [PASS] description word count: 158 (within 100-250)
+  [PASS] ULTRA SI governance: GRO/LIFE ZONE/KILLZONE reference found
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 49/50
+
+  RESULT: PASSED — 1859 words
+
+────────────────────────────────────────────
+FILE: holmes/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1703 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: holmes
+  [PASS] description word count: 141 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1703 words
+
+────────────────────────────────────────────
+FILE: klarity-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1788 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: klarity-si
+  [PASS] description word count: 142 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 48/50
+
+  RESULT: PASSED — 1788 words
+
+────────────────────────────────────────────
+FILE: luci-ultra-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 2024 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: luci-ultra-si
+  [PASS] description word count: 154 (within 100-250)
+  [PASS] ULTRA SI governance: GRO/LIFE ZONE/KILLZONE reference found
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 2024 words
+
+────────────────────────────────────────────
+FILE: nija-legal-exp/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1821 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: nija-legal-exp
+  [PASS] description word count: 146 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 48/50
+
+  RESULT: PASSED — 1821 words
+
+────────────────────────────────────────────
+FILE: osiris/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1613 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: osiris
+  [PASS] description word count: 161 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1613 words
+
+────────────────────────────────────────────
+FILE: plutus/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1658 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: plutus
+  [PASS] description word count: 120 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1658 words
+
+────────────────────────────────────────────
+FILE: riverking/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1882 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: riverking
+  [PASS] description word count: 141 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1882 words
+
+────────────────────────────────────────────
+FILE: safe-pm/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1863 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: safe-pm
+  [PASS] description word count: 152 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 49/50
+
+  RESULT: PASSED — 1863 words
+
+────────────────────────────────────────────
+FILE: safe-si-ultra/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1673 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: safe-si-ultra
+  [PASS] description word count: 147 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 49/50
+
+  RESULT: PASSED — 1673 words
+
+────────────────────────────────────────────
+FILE: scoops-ultra-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1709 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: scoops-ultra-si
+  [PASS] description word count: 135 (within 100-250)
+  [PASS] ULTRA SI governance: GRO/LIFE ZONE/KILLZONE reference found
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 48/50
+
+  RESULT: PASSED — 1709 words
+
+────────────────────────────────────────────
+FILE: scrubs-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1507 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: scrubs-si
+  [PASS] description word count: 134 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 47/50
+
+  RESULT: PASSED — 1507 words
+
+────────────────────────────────────────────
+FILE: socrates-lms/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1674 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: socrates-lms
+  [PASS] description word count: 142 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 48/50
+
+  RESULT: PASSED — 1674 words
+
+────────────────────────────────────────────
+FILE: solva-ultra-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1691 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: solva-ultra-si
+  [PASS] description word count: 151 (within 100-250)
+  [PASS] ULTRA SI governance: GRO/LIFE ZONE/KILLZONE reference found
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1691 words
+
+────────────────────────────────────────────
+FILE: spartan/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 2112 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: spartan
+  [PASS] description word count: 144 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 49/50
+
+  RESULT: PASSED — 2112 words
+
+────────────────────────────────────────────
+FILE: sphinx/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1679 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: sphinx
+  [PASS] description word count: 155 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1679 words
+
+────────────────────────────────────────────
+FILE: strategos-ultra-si/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1879 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: strategos-ultra-si
+  [PASS] description word count: 144 (within 100-250)
+  [PASS] ULTRA SI governance: GRO/LIFE ZONE/KILLZONE reference found
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 1879 words
+
+────────────────────────────────────────────
+FILE: tarantula/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 1543 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: tarantula
+  [PASS] description word count: 141 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 49/50
+
+  RESULT: PASSED — 1543 words
+
+────────────────────────────────────────────
+FILE: vibe-spc/SKILL.md
+────────────────────────────────────────────
+  [PASS] Word count: 2257 words
+  [PASS] YAML frontmatter present
+  [PASS] YAML name: vibe-spc
+  [PASS] description word count: 185 (within 100-250)
+  [PASS] Section present: Core Identity
+  [PASS] Section present: When to Activate
+  [PASS] Section present: Primary Workflow
+  [PASS] Section present: Communication Style
+  [PASS] Section present: Output Format
+  [PASS] Section present: Constraints
+  [PASS] Section present: Quality Standards
+  [PASS] JCSE score found: 50/50
+
+  RESULT: PASSED — 2257 words
+
+════════════════════════════════════════════════════════════
+  VALIDATION SUMMARY
+════════════════════════════════════════════════════════════
+  Total validated : 34
+  Passed          : 34
+  Failed          : 0
+
+════════════════════════════════════════════════════════════
+  Report saved to: /c/Users/seyek/OneDrive/ATANDA CLOUD/SPC/logs/validation_report.txt
+════════════════════════════════════════════════════════════
+

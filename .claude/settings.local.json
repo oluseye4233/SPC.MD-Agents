@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm list *)",
+      "Bash(npm root *)",
+      "Read(//proc/self/**)",
+      "Bash(where.exe claude *)",
+      "Bash(where.exe claude.exe)",
+      "Bash(/c/Python314/python - 'C:/Users/seyek/OneDrive/ATANDA CLOUD/SPC/spcs/ERB_ULTRA_SI_SPC.docx' /tmp/erb_content.txt)",
+      "Bash(bash validate_skills.sh)",
+      "WebFetch(domain:claude.com)",
+      "WebFetch(domain:docs.anthropic.com)",
+      "Bash(gh api *)",
+      "Skill(anthropic-skills:pdf)",
+      "Skill(anthropic-skills:pdf:*)",
+      "Bash(python -c ' *)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\atanda-command-centre\\\\packages\\\\db\\\\src\\\\schema\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\atanda-command-centre\\\\packages\\\\db\\\\migrations\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\atanda-command-centre\\\\packages\\\\llm\\\\src\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\atanda-command-centre\\\\packages\\\\email\\\\src\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\atanda-command-centre\\\\packages\\\\export\\\\src\")",
+      "Bash(ls \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\atanda-command-centre\\\\packages\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\atanda-command-centre\\\\lib\\\\api-spec\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\migrations\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\parse-document\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\build-knowledge-graph\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\extract-concepts\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\classify-content\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\generate-curriculum\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\generate-objectives\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\generate-assessments\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\validate-curriculum\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\align-standards\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\recommend-resources\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\generate-sow\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\export-sow-pdf\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\whisper-stt\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\translate-content\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\generate-script\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\socrates-audit\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\score-kopa\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\functions\\\\auth-hook\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\supabase\\\\seed\" && echo done)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\components\\\\ui\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\components\\\\layout\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\components\\\\knowledge\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\components\\\\curriculum\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\components\\\\sow\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\components\\\\whisper\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\components\\\\governance\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\components\\\\analytics\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\components\\\\onboarding\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\lib\\\\supabase\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\lib\\\\ai\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\lib\\\\standards\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\hooks\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\types\" \"C:\\\\Users\\\\seyek\\\\AppData\\\\Local\\\\Temp\\\\acadia-universal-teacher\\\\scripts\" && echo done)",
+      "Bash(ls /mnt/c/Users/seyek/AppData/Local/Temp/acadia-universal-teacher/supabase/functions/)",
+      "Bash(gh repo *)"
+    ]
+  }
+}
